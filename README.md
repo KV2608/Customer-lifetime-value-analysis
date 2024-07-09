@@ -1,5 +1,5 @@
 # Customer-lifetime-value-analysis
-# Customer Lifetime Value Analysis
+
 
 ## Project Overview
 Customer Lifetime Value (CLTV) analysis is used to estimate the total value of customers to the business over the lifetime of their relationship. This analysis helps businesses make data-driven decisions on resource allocation, customer acquisition, and retention strategies. This project demonstrates how to perform CLTV analysis using Python.
